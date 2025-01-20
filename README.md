@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me:
   - Email: [kunalankuna04@gmail.com](mailto:kunalankuna04@gmail.com)
-  - LinkedIn: [Subatharan Kunalan](https://www.linkedin.com/in/sk-kuna/)
+  - LinkedIn: [Kunalan Subatharan](https://www.linkedin.com/in/sk-kuna/)
   - Portfolio: [My Portfolio](https://skkuna-portfolio.netlify.app/)
   - YouTube: [Code with SK](https://www.youtube.com/@code_with_sk-04)
 - 😄 Pronouns: He/Him
